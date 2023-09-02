@@ -1,0 +1,9 @@
+{
+	"name": "MeghanaDataFactoryStudy",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2cbaa8d5-b222-47a2-a6df-e14612290fe0",
+		"tenantId": "1f5d70e4-8729-43e4-90cb-cdeae7840079"
+	}
+}
